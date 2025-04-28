@@ -3,7 +3,7 @@
 
 This repository demonstrates a simple ETL (Extract, Transform, Load) pipeline instrumented with OpenTelemetry for tracing, logging, and metrics collection.
 
-All the code explained in detail is available in the [related blog post](#) (link to be updated).
+All the code explained in detail is available in the [related blog post](https://kleber-yokota.github.io/mkdocs_gh_pages/blog/2024/04/28/proof-of-concept-opentelemetry-with-python-and-docker/).
 
 ---
 
